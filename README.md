@@ -2,7 +2,7 @@
 
 # Wagner-Grade Classification of Diabetic Foot Ulcers
 
-Course project for 24-788. Compares a ResNet50 baseline against a ViT-B/16 variant on 5-class Wagner-grade classification of diabetic foot ulcer (DFU) photographs.
+Compares a ResNet50 baseline against a ViT-B/16 variant on 5-class Wagner-grade classification of diabetic foot ulcer (DFU) photographs.
 
 ## Results
 
