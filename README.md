@@ -4,6 +4,8 @@
 
 Compares a ResNet50 baseline against a ViT-B/16 variant on 5-class Wagner-grade classification of diabetic foot ulcer (DFU) photographs.
 
+The checkpoints for both model are in this link: https://drive.google.com/drive/folders/18mnIejHqSiUPxL9_R8DHOhu9CZVV1hvQ?usp=sharing
+
 ## Results
 
 | Model | Test Accuracy | Macro-F1 |
